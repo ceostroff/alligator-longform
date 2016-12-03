@@ -25,6 +25,7 @@ body {
   margin: 0 auto;
   max-width: 700px;
   padding-bottom: 20px;
+  font-family: 'Roboto', sans-serif;
 }
 
 #byline {
@@ -34,7 +35,7 @@ body {
 
 figure {
   margin: 0 auto;
-  padding: 10px 20px;
+  padding: 15px 20px;
 }
 
 figure img {
@@ -50,8 +51,19 @@ figcaption {
     text-align: left;
 }
 
-.firstcharacter { float: left; color: black; font-size: 75px; line-height: 60px; padding-top: 2px; padding-right: 8px; padding-left: 3px; font-family: Garamond; }
-
+.firstcharacter {
+  float: left;
+  color: black;
+  font-size: 55px;
+  line-height: 50px;
+  padding-top: 2px;
+  padding-right: 8px;
+  padding-left: 3px;
+  font-family: 'EB Garamond', Garamond, serif;
+}
+#container {
+  width: 100%;
+}
 .content-row {
   margin-top: 30px;
 }
@@ -332,11 +344,21 @@ header, article {
   padding: 100px 0;
 }
 
+.text p {
+  width: 700px;
+  margin: 0 auto;
+}
+
 article {
-  font-family: Garamond;
-  max-width: 700px;
+  font-family: 'EB Garamond', Garamond, serif;
   margin: 0 auto;
   padding-top: 30px;
+}
+
+header .washer{
+  width: 100%;
+  height: 100%;
+  background-color: rgba(100,100,100,.4);
 }
 
 header .intro-content, article .intro-content {
@@ -351,12 +373,14 @@ header .story-name {
   text-transform: uppercase;
   font-weight: 900;
   margin-top: 15px;
+  text-shadow: 0px 0px 10px #000000;
 }
 header .story-name-subtext {
   font-size: 20px;
   line-height: 20px;
   font-weight: 300;
-  font-family: Garamond;
+  font-family: 'EB Garamond', Garamond, serif;
+  text-shadow: 0px 0px 2px #000000;
 }
 header img {
   max-width: 150px;
