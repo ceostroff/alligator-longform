@@ -17,3 +17,13 @@ There's two important things to start with, though.
 Those things aside, I thought the images turned out fine, if a little bottom-heavy. I had some trouble with placement, but I think they look fine. I might remove one from the last section.
 I'm also not entirely done with the narrative, so placement might change. But once I get the sizing issue fixed, everything should be copy-and-paste-able.
 I used this timeline template: https://timeline.knightlab.com/
+
+Week 3
+
+I'm basically gonna take the L this week. I changed the text size to make it more readable and appealing, as per your suggestion. I also made the pictures look less awkward by making them the same width as the text, also per your suggestion. But that's pretty much all I did.
+In my original proposal, I said I was going to build an interactive element that tells readers about the danger zones of blood pressure as it relates to having a stroke, and I just didn't have the time to do it. It's completely my fault and I take full responsibility for it. If you want the background story, I was planning to do it from 4-6 today (Friday) when I got a call about an internship I applied for. I interviewed for over an hour and got offered the internship (yay!), but that left me with no time to do the assignment. I should have done it before Friday, but I did not.
+I will, however, have that element done when I turn in the final piece of the project on Monday. Nevertheless, I fully accept whatever deductions result from my not turning in what I said I would turn in.
+That aside, I do have a question for you before the final due date and before I launch this story. Your previous comments indicated that you'd like to see some sort of teaser that entices people to click to the next section. I think it's a really good idea (because you're right — I definitely assume people think the story is as interesting as I think it is), but I'm just not sure what exactly you mean.
+When I read the comment, my first thought was to have a box pop up when a reader hovers over the arrow with either a pulled quote from the next section or a teaser like "Click to read about..." However, the obvious problem there is that hover is meaningless on a phone.
+So I was wondering what you had in mind when you made that comment. Because again, I think it's a good idea. I'm just not sure how to place it.
+Also, I apologize again for not having this week's part ready in time. I really, really despise being unprepared, but it got me this time. There's really nothing else I can say. I'm truly sorry. 
